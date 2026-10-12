@@ -1,0 +1,13 @@
+print("enter 10 numbers:")
+a=int(input("1:"))
+b=int(input("2:"))      
+c=int(input("3:"))
+d=int(input("4:"))
+e=int(input("5:"))
+f=int(input("6:"))
+g=int(input("7:"))
+h=int(input("8:"))      
+i=int(input("9:"))
+j=int(input("10:"))
+sum=a+b+c+d+e+f+g+h+i+j
+print(sum)
